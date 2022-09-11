@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="ContextKey" Type="nvarchar" MaxLength="300" Nullable="false" />
+    <Property Name="Model" Type="varbinary(max)" Nullable="false" />
+    <Property Name="ProductVersion" Type="nvarchar" MaxLength="32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AspNetRoles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="256" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AspNetUserClaims">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="ClaimType" Type="nvarchar(max)" />
+    <Property Name="ClaimValue" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="AspNetUserLogins">
+    <Key>
+      <PropertyRef Name="LoginProvider" />
+      <PropertyRef Name="ProviderKey" />
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="LoginProvider" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="ProviderKey" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AspNetUserRoles">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="RoleId" Type="nvarchar" MaxLength="128" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AspNetUsers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="256" />
+    <Property Name="EmailConfirmed" Type="bit" Nullable="false" />
+    <Property Name="PasswordHash" Type="nvarchar(max)" />
+    <Property Name="SecurityStamp" Type="nvarchar(max)" />
+    <Property Name="PhoneNumber" Type="nvarchar(max)" />
+    <Property Name="PhoneNumberConfirmed" Type="bit" Nullable="false" />
+    <Property Name="TwoFactorEnabled" Type="bit" Nullable="false" />
+    <Property Name="LockoutEndDateUtc" Type="datetime" />
+    <Property Name="LockoutEnabled" Type="bit" Nullable="false" />
+    <Property Name="AccessFailedCount" Type="int" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="256" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Company">
+    <Key>
+      <PropertyRef Name="CompanyId" />
+    </Key>
+    <Property Name="CompanyId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CompanyName" Type="varchar" MaxLength="100" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="128" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="ManagerId" Type="varchar" MaxLength="50" />
+    <Property Name="ManagerName" Type="varchar" MaxLength="100" />
+    <Property Name="ManagerMobile" Type="varchar" MaxLength="10" />
+    <Property Name="ManagerOfficialEmail" Type="varchar" MaxLength="500" />
+    <Property Name="HRId" Type="varchar" MaxLength="50" />
+    <Property Name="HRName" Type="varchar" MaxLength="100" />
+    <Property Name="HRMobile" Type="varchar" MaxLength="10" />
+    <Property Name="HROfficialEmail" Type="varchar" MaxLength="500" />
+    <Property Name="LeadId" Type="varchar" MaxLength="50" />
+    <Property Name="LeadName" Type="varchar" MaxLength="100" />
+    <Property Name="LeadMobile" Type="varchar" MaxLength="10" />
+    <Property Name="LeadOfficialEmail" Type="varchar" MaxLength="500" />
+    <Property Name="CompanyLogo" Type="varbinary(max)" />
+    <Property Name="CompanyAddress" Type="varchar" MaxLength="500" />
+    <Property Name="CompanyOfficialEmail" Type="varchar" MaxLength="500" />
+    <Property Name="CompanyOfficialContact" Type="varchar" MaxLength="50" />
+    <Property Name="CompanyWebsite" Type="varchar" MaxLength="500" />
+    <Property Name="CompanyFounder" Type="varchar" MaxLength="500" />
+    <Property Name="CompanyFoundedMonthYear" Type="varchar" MaxLength="100" />
+    <Property Name="CompanyEmployeeStrength" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="CompanyDocumentConfigurableValues">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CompanyId" Type="int" />
+    <Property Name="FieldName" Type="varchar" MaxLength="100" />
+    <Property Name="ValueType" Type="varchar" MaxLength="50" />
+    <Property Name="FieldValue" Type="varchar" MaxLength="5000" />
+    <Property Name="AddedDate" Type="datetime" />
+    <Property Name="CompanyDocumentId" Type="int" />
+    <Property Name="FieldFormat" Type="varchar" MaxLength="2000" />
+  </EntityType>
+  <EntityType Name="CompanyDocuments">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocumentName" Type="varchar" MaxLength="200" />
+    <Property Name="DocumentPath" Type="varbinary(max)" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="128" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CompanyId" Type="int" />
+    <Property Name="DocumentType" Type="varchar" MaxLength="10" />
+    <Property Name="CompanyDocumentsTypeId" Type="int" />
+  </EntityType>
+  <EntityType Name="CompanyDocumentsType">
+    <Key>
+      <PropertyRef Name="DocumentTypeId" />
+    </Key>
+    <Property Name="DocumentTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DocumentTypeName" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" />
+    <Property Name="FullName" Type="varchar" MaxLength="200" />
+    <Property Name="Photo" Type="varbinary(max)" />
+    <Property Name="PermanentAddress" Type="varchar" MaxLength="500" />
+    <Property Name="CurrentAddress" Type="varchar" MaxLength="500" />
+    <Property Name="PAN" Type="varchar" MaxLength="100" />
+    <Property Name="Mobile" Type="varchar" MaxLength="100" />
+    <Property Name="AlternateMobile" Type="varchar" MaxLength="100" />
+    <Property Name="EmailId" Type="varchar" MaxLength="100" />
+    <Property Name="AlternateEmailId" Type="varchar" MaxLength="100" />
+    <Property Name="BloodGroup" Type="varchar" MaxLength="10" />
+    <Property Name="HighestQualification" Type="varchar" MaxLength="500" />
+    <Property Name="HighestQualificationPassoutMonthYear" Type="varchar" MaxLength="500" />
+    <Property Name="Technology" Type="varchar" MaxLength="2000" />
+    <Property Name="OfferDate" Type="date" />
+    <Property Name="JoiningDate" Type="date" />
+    <Property Name="OfferDesignation" Type="varchar" MaxLength="500" />
+    <Property Name="CurrentDesignation" Type="varchar" MaxLength="500" />
+    <Property Name="OfferSalary" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="CurrentSalary" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="LastHikeMonthYear" Type="varchar" MaxLength="500" />
+    <Property Name="ResignationDate" Type="date" />
+    <Property Name="RelivingDate" Type="date" />
+    <Property Name="OfficialEmployeeId" Type="varchar" MaxLength="100" />
+    <Property Name="OfficialEmailId" Type="varchar" MaxLength="100" />
+    <Property Name="OfficialEmailIdPassword" Type="varchar" MaxLength="100" />
+    <Property Name="AddedDate" Type="datetime" />
+    <Property Name="CompanyId" Type="int" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="DateOfBirth" Type="date" />
+    <Property Name="Adhaar" Type="varchar" MaxLength="20" />
+    <Property Name="UAN" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="EmployeeBankAccount">
+    <Key>
+      <PropertyRef Name="AccountId" />
+    </Key>
+    <Property Name="AccountId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" />
+    <Property Name="BankName" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="BranchName" Type="varchar" MaxLength="200" />
+    <Property Name="AccountNumber" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="IFSCCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="CreatedDate" Type="datetime2" Precision="7" />
+    <Property Name="ModifiedDate" Type="datetime2" Precision="7" />
+    <Property Name="DeletedDate" Type="datetime2" Precision="7" />
+  </EntityType>
+  <EntityType Name="EmployeeEducation">
+    <Key>
+      <PropertyRef Name="EducationId" />
+    </Key>
+    <Property Name="EducationId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" />
+    <Property Name="EducationTypeId" Type="int" />
+    <Property Name="CollegeName" Type="varchar" MaxLength="50" />
+    <Property Name="Percentage" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="PassoutYear" Type="int" />
+    <Property Name="Specialization" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="EmployeeEducationType">
+    <Key>
+      <PropertyRef Name="EducationTypeId" />
+    </Key>
+    <Property Name="EducationTypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EducationName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EmployeeExperiece">
+    <Key>
+      <PropertyRef Name="ExperienceId" />
+    </Key>
+    <Property Name="ExperienceId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" />
+    <Property Name="CompanyName" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="JoiningDate" Type="datetime2" Precision="7" />
+    <Property Name="CurrentCTC" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="RelivingDate" Type="datetime2" Precision="7" />
+    <Property Name="IsPFOpted" Type="bit" />
+    <Property Name="IsAllDocumentsAvailable" Type="bit" />
+    <Property Name="AccountId" Type="int" />
+    <Property Name="CreatedDate" Type="datetime2" Precision="7" />
+    <Property Name="ModifiedDate" Type="datetime2" Precision="7" />
+    <Property Name="DeletedDate" Type="datetime2" Precision="7" />
+  </EntityType>
+  <EntityType Name="EmployeeIncrement">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" />
+    <Property Name="HikeMonthYear" Type="varchar" MaxLength="100" />
+    <Property Name="HikeInPercentage" Type="int" />
+    <Property Name="HikeAmount" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="SalaryAfterHike" Type="numeric" Precision="18" Scale="2" />
+    <Property Name="SalaryEffectiveFrom" Type="date" />
+    <Property Name="ModifiedDate" Type="datetime" />
+  </EntityType>
+  <Association Name="FK__Company__Created__66603565">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="Company" Type="Self.Company" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Company">
+        <PropertyRef Name="CreatedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CompanyDo__Compa__1AD3FDA4">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="CompanyDocumentConfigurableValues" Type="Self.CompanyDocumentConfigurableValues" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="CompanyDocumentConfigurableValues">
+        <PropertyRef Name="CompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CompanyDo__Compa__41B8C09B">
+    <End Role="CompanyDocumentsType" Type="Self.CompanyDocumentsType" Multiplicity="0..1" />
+    <End Role="CompanyDocuments" Type="Self.CompanyDocuments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CompanyDocumentsType">
+        <PropertyRef Name="DocumentTypeId" />
+      </Principal>
+      <Dependent Role="CompanyDocuments">
+        <PropertyRef Name="CompanyDocumentsTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CompanyDo__Compa__4D5F7D71">
+    <End Role="CompanyDocuments" Type="Self.CompanyDocuments" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="CompanyDocumentConfigurableValues" Type="Self.CompanyDocumentConfigurableValues" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CompanyDocuments">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CompanyDocumentConfigurableValues">
+        <PropertyRef Name="CompanyDocumentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CompanyDo__Compa__6C190EBB">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="CompanyDocuments" Type="Self.CompanyDocuments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="CompanyDocuments">
+        <PropertyRef Name="CompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__CompanyDo__Creat__6B24EA82">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="CompanyDocuments" Type="Self.CompanyDocuments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CompanyDocuments">
+        <PropertyRef Name="CreatedBy" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Employee__Compan__6754599E">
+    <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Company">
+        <PropertyRef Name="CompanyId" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="CompanyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Employee__UserId__4AB81AF0">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeB__UserI__0662F0A3">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="EmployeeBankAccount" Type="Self.EmployeeBankAccount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeeBankAccount">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeE__Accou__0A338187">
+    <End Role="EmployeeBankAccount" Type="Self.EmployeeBankAccount" Multiplicity="0..1" />
+    <End Role="EmployeeExperiece" Type="Self.EmployeeExperiece" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EmployeeBankAccount">
+        <PropertyRef Name="AccountId" />
+      </Principal>
+      <Dependent Role="EmployeeExperiece">
+        <PropertyRef Name="AccountId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeE__Educa__0FEC5ADD">
+    <End Role="EmployeeEducationType" Type="Self.EmployeeEducationType" Multiplicity="0..1" />
+    <End Role="EmployeeEducation" Type="Self.EmployeeEducation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EmployeeEducationType">
+        <PropertyRef Name="EducationTypeId" />
+      </Principal>
+      <Dependent Role="EmployeeEducation">
+        <PropertyRef Name="EducationTypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeE__UserI__093F5D4E">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="EmployeeExperiece" Type="Self.EmployeeExperiece" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeeExperiece">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeE__UserI__0EF836A4">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="EmployeeEducation" Type="Self.EmployeeEducation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeeEducation">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__EmployeeI__UserI__4F7CD00D">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="0..1" />
+    <End Role="EmployeeIncrement" Type="Self.EmployeeIncrement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="EmployeeIncrement">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserClaims" Type="Self.AspNetUserClaims" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserClaims">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserLogins" Type="Self.AspNetUserLogins" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserLogins">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserRoles_dbo_AspNetRoles_RoleId">
+    <End Role="AspNetRoles" Type="Self.AspNetRoles" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserRoles" Type="Self.AspNetUserRoles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetRoles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserRoles">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_AspNetUserRoles_dbo_AspNetUsers_UserId">
+    <End Role="AspNetUsers" Type="Self.AspNetUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="AspNetUserRoles" Type="Self.AspNetUserRoles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AspNetUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AspNetUserRoles">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EmployeeModelStoreContainer">
+    <EntitySet Name="__MigrationHistory" EntityType="Self.__MigrationHistory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AspNetRoles" EntityType="Self.AspNetRoles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AspNetUserClaims" EntityType="Self.AspNetUserClaims" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AspNetUserLogins" EntityType="Self.AspNetUserLogins" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AspNetUserRoles" EntityType="Self.AspNetUserRoles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AspNetUsers" EntityType="Self.AspNetUsers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Company" EntityType="Self.Company" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CompanyDocumentConfigurableValues" EntityType="Self.CompanyDocumentConfigurableValues" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CompanyDocuments" EntityType="Self.CompanyDocuments" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CompanyDocumentsType" EntityType="Self.CompanyDocumentsType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeBankAccount" EntityType="Self.EmployeeBankAccount" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeEducation" EntityType="Self.EmployeeEducation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeEducationType" EntityType="Self.EmployeeEducationType" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeExperiece" EntityType="Self.EmployeeExperiece" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EmployeeIncrement" EntityType="Self.EmployeeIncrement" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Company__Created__66603565" Association="Self.FK__Company__Created__66603565">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="Company" EntitySet="Company" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CompanyDo__Compa__1AD3FDA4" Association="Self.FK__CompanyDo__Compa__1AD3FDA4">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="CompanyDocumentConfigurableValues" EntitySet="CompanyDocumentConfigurableValues" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CompanyDo__Compa__41B8C09B" Association="Self.FK__CompanyDo__Compa__41B8C09B">
+      <End Role="CompanyDocumentsType" EntitySet="CompanyDocumentsType" />
+      <End Role="CompanyDocuments" EntitySet="CompanyDocuments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CompanyDo__Compa__4D5F7D71" Association="Self.FK__CompanyDo__Compa__4D5F7D71">
+      <End Role="CompanyDocuments" EntitySet="CompanyDocuments" />
+      <End Role="CompanyDocumentConfigurableValues" EntitySet="CompanyDocumentConfigurableValues" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CompanyDo__Compa__6C190EBB" Association="Self.FK__CompanyDo__Compa__6C190EBB">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="CompanyDocuments" EntitySet="CompanyDocuments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__CompanyDo__Creat__6B24EA82" Association="Self.FK__CompanyDo__Creat__6B24EA82">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="CompanyDocuments" EntitySet="CompanyDocuments" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Employee__Compan__6754599E" Association="Self.FK__Employee__Compan__6754599E">
+      <End Role="Company" EntitySet="Company" />
+      <End Role="Employee" EntitySet="Employee" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Employee__UserId__4AB81AF0" Association="Self.FK__Employee__UserId__4AB81AF0">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="Employee" EntitySet="Employee" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeB__UserI__0662F0A3" Association="Self.FK__EmployeeB__UserI__0662F0A3">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="EmployeeBankAccount" EntitySet="EmployeeBankAccount" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeE__Accou__0A338187" Association="Self.FK__EmployeeE__Accou__0A338187">
+      <End Role="EmployeeBankAccount" EntitySet="EmployeeBankAccount" />
+      <End Role="EmployeeExperiece" EntitySet="EmployeeExperiece" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeE__Educa__0FEC5ADD" Association="Self.FK__EmployeeE__Educa__0FEC5ADD">
+      <End Role="EmployeeEducationType" EntitySet="EmployeeEducationType" />
+      <End Role="EmployeeEducation" EntitySet="EmployeeEducation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeE__UserI__093F5D4E" Association="Self.FK__EmployeeE__UserI__093F5D4E">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="EmployeeExperiece" EntitySet="EmployeeExperiece" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeE__UserI__0EF836A4" Association="Self.FK__EmployeeE__UserI__0EF836A4">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="EmployeeEducation" EntitySet="EmployeeEducation" />
+    </AssociationSet>
+    <AssociationSet Name="FK__EmployeeI__UserI__4F7CD00D" Association="Self.FK__EmployeeI__UserI__4F7CD00D">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="EmployeeIncrement" EntitySet="EmployeeIncrement" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserClaims" EntitySet="AspNetUserClaims" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserLogins" EntitySet="AspNetUserLogins" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserRoles_dbo_AspNetRoles_RoleId" Association="Self.FK_dbo_AspNetUserRoles_dbo_AspNetRoles_RoleId">
+      <End Role="AspNetRoles" EntitySet="AspNetRoles" />
+      <End Role="AspNetUserRoles" EntitySet="AspNetUserRoles" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_AspNetUserRoles_dbo_AspNetUsers_UserId" Association="Self.FK_dbo_AspNetUserRoles_dbo_AspNetUsers_UserId">
+      <End Role="AspNetUsers" EntitySet="AspNetUsers" />
+      <End Role="AspNetUserRoles" EntitySet="AspNetUserRoles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

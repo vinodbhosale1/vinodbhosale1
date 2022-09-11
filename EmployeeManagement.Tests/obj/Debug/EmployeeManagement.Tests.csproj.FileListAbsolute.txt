@@ -1,0 +1,156 @@
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.dll.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.pdb
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Razor.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Owin.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EntityFramework.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.pdb
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.dll.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Razor.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EntityFramework.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csprojAssemblyReference.cache
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csproj.CoreCompileInputs.cache
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csproj.CopyComplete
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.pdb
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.dll.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.pdb
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Razor.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Owin.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EntityFramework.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.pdb
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.dll.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Razor.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EntityFramework.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csprojAssemblyReference.cache
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csproj.CoreCompileInputs.cache
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csproj.CopyComplete
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.pdb
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.dll.config
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.Tests.pdb
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Razor.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Owin.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EntityFramework.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.pdb
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EmployeeManagement.dll.config
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Razor.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\EntityFramework.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csprojAssemblyReference.cache
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csproj.CoreCompileInputs.cache
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.csproj.CopyComplete
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.dll
+E:\Vikul Coach\V#\Projects\Employee Management Project\EmployeeManagement\EmployeeManagement.Tests\obj\Debug\EmployeeManagement.Tests.pdb

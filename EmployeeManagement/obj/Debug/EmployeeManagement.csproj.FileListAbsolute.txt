@@ -1,0 +1,330 @@
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.rsp
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.exe
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.exe.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.rsp
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.AppContext.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Console.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Compression.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.FileSystem.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Pipes.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.AccessControl.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Claims.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.ValueTuple.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XPath.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.rsp
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\BouncyCastle.Crypto.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Owin.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\SendGrid.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\StarkbankEcdsa.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Deployment.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\WebGrease.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\SendGrid.pdb
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\SendGrid.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Deployment.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.pdb
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+E:\Vikul\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.rsp
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.exe
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.exe.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.rsp
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.AppContext.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Console.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Compression.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.FileSystem.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Pipes.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.AccessControl.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Claims.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.ValueTuple.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XPath.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.rsp
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\BouncyCastle.Crypto.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Owin.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\SendGrid.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\StarkbankEcdsa.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Deployment.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\WebGrease.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\SendGrid.pdb
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\SendGrid.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Deployment.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.pdb
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+E:\Vikul Coach\V#\Employee Management Project\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.exe.config
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\csc.rsp
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.exe
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.exe.config
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\csi.rsp
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Console.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.exe.config
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\vbc.rsp
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\BouncyCastle.Crypto.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EntityFramework.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Owin.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\SendGrid.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\StarkbankEcdsa.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\WebGrease.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\SendGrid.pdb
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\SendGrid.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Helpers.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Mvc.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Optimization.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.Razor.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Newtonsoft.Json.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EntityFramework.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\Vinod\Desktop\EmployeeManagement (1)\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
