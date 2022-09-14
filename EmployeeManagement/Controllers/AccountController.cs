@@ -20,6 +20,7 @@ namespace EmployeeManagement.Controllers
 
         public AccountController()
         {
+            //TestController
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
